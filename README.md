@@ -1,10 +1,5 @@
-<!--
-    Hi there, I'm Nazanin Siavash!
-    Happy to see you here exploring my README code
-    Feel free to inspire!
 
-    Connect with me on LinkedIn @nazaninsiavash :))
--->
+<!-- Inspired by daria-stanilevici's profile README: https://github.com/daria-stanilevici/daria-stanilevici -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFDA62&height=120&section=header" alt="header"/>
 
@@ -12,9 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFFFFF&width=435&lines=Hello%2C+it's+Nazanin+Siavash" alt="Nazanin Siavash"/>
 </a>
 
-<!--
-    Your own Terminal GIF can be created here -> https://www.terminalgif.com
--->
+
 
 ### About Me
 
@@ -69,9 +62,6 @@ Full list on my Google Scholar profile, linked above.
     </a>
 </div>
 
-<!--
-     Oh, hello there, recruiters and collaborators!
--->
 
 ### Employer or collaborator?
 > [!IMPORTANT]
@@ -79,6 +69,3 @@ Full list on my Google Scholar profile, linked above.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFDA62&height=120&section=footer" alt="footer"/>
 
-<!--
-     Thanks for being my guest <3
--->
