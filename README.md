@@ -65,7 +65,7 @@ Full list on my Google Scholar profile, linked above.
 
 ### Employer or collaborator?
 > [!IMPORTANT]
-> <a href="https://drive.google.com/file/d/1VK9GCz8dD6RkdFFbrFdEjrqBPD7q5lb8/view?usp=sharing" download>Download my CV</a>
+> <a href="[https://drive.google.com/file/d/1VK9GCz8dD6RkdFFbrFdEjrqBPD7q5lb8/view?usp=sharing](https://drive.google.com/file/d/1R_DvugZBMh8EzQKhM4J-TbOHhoJmA_N6/view?usp=sharing)" download>Download my CV</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFDA62&height=120&section=footer" alt="footer"/>
 
