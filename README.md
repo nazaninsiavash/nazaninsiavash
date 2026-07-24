@@ -36,6 +36,9 @@ intersection of **Quantum Computing**, **Machine Learning**, and **AI for Softwa
   <a href="https://orcid.org/0009-0000-4177-0632">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" target="_blank" alt="ORCID">
   </a>
+    <a href="https://www.researchgate.net/profile/Nazanin-Siavash">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" target="_blank" alt="ResearchGate">
+  </a>
 </div>
 
 - **LLM-Powered Quantum Code Transpilation** — IEEE QCE, 2025
@@ -53,12 +56,10 @@ Full list on my Google Scholar profile, linked above.
     <a href="https://www.linkedin.com/in/nazaninsiavash">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://scholar.google.com/citations?user=VkajdScAAAAJ&hl=en">
-        <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
-    </a>
     <a href="mailto:nsiavash@uccs.edu">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
+
 </div>
 
 
