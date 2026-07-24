@@ -30,7 +30,7 @@ intersection of **Quantum Computing**, **Machine Learning**, and **AI for Softwa
 
 ### Publications
 <div>
-  <a href="https://scholar.google.com">
+  <a href="https://scholar.google.com/citations?user=VkajdScAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" target="_blank" alt="Google Scholar">
   </a>
   <a href="https://orcid.org/0009-0000-4177-0632">
@@ -53,7 +53,7 @@ Full list on my Google Scholar profile, linked above.
     <a href="https://www.linkedin.com/in/nazaninsiavash">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="[https://scholar.google.com](https://scholar.google.com/citations?user=VkajdScAAAAJ&hl=en)">
+    <a href="https://scholar.google.com/citations?user=VkajdScAAAAJ&hl=en">
         <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
     </a>
     <a href="mailto:nsiavash@uccs.edu">
